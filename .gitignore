@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+/CodeFirst/.vs/CodeFirst
+/CodeFirst/CodeFirst.Web/bin
+/CodeFirst/CodeFirst.Web/obj/Debug
+/CodeFirst/packages
